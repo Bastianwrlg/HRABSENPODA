@@ -1,0 +1,6 @@
+{
+  "name": "HRIS PODA E-Liquid - Sistem Absensi & Kedisiplinan",
+  "description": "Human Resource Information System PT Poda Sukses Gemilang & PT Trimitra Nuansa Sentosa: Analisis keterlambatan, ketepatan waktu, komparasi divisi, leaderboard keterlambatan, dan rekap izin sakit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
